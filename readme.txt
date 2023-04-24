@@ -1,6 +1,6 @@
 
 
-Live: https://mseducacao.netlify.app/about.html
+Live: https://mseducacao.netlify.app/
 
 -------------
 
